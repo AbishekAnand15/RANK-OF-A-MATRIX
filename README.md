@@ -19,6 +19,8 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 end of the program
 ## Program:
 ```python
+#Developed by:Abishek Xavier A
+#ResgisterNumber:22008833
 import numpy as np
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(a)
